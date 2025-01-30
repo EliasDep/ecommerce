@@ -2,7 +2,8 @@
 
 Ecommerce desarrollada con React Native y Firebase que ofrece una experiencia de compra completa y fácil de usar.
 
-<img src="./screenshot/img1.png" width="300" > <img src="./screenshot/img2.png" width="300" >
+<img src="./screenshot/img1.png" width="300" >
+<img src="./screenshot/img2.png" width="300" >
 
 ## Tecnologías Utilizadas
 
