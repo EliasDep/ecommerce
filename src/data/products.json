@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Calcetines Spider-Man",
+    "description": "Calcetines con el icónico diseño de Spider-Man.",
+    "image": "spiderman.jpg",
+    "price": 12.99,
+    "category": "Cómics y Superhéroes"
+  },
+  {
+    "id": 2,
+    "name": "Calcetines Batman",
+    "description": "El caballero de la noche en tus pies.",
+    "image": "batman.jpg",
+    "price": 14.99,
+    "category": "Cómics y Superhéroes"
+  },
+  {
+    "id": 3,
+    "name": "Calcetines Wonder Woman",
+    "description": "Diseño inspirado en la princesa amazona.",
+    "image": "wonder-woman.jpg",
+    "price": 13.99,
+    "category": "Cómics y Superhéroes"
+  },
+  {
+    "id": 4,
+    "name": "Calcetines Deadpool",
+    "description": "El antihéroe más irreverente en tus pies.",
+    "image": "deadpool.jpg",
+    "price": 15.99,
+    "category": "Cómics y Superhéroes"
+  },
+  {
+    "id": 5,
+    "name": "Calcetines Iron Man",
+    "description": "La armadura de Iron Man en cada paso.",
+    "image": "ironman.jpg",
+    "price": 14.49,
+    "category": "Cómics y Superhéroes"
+  },
+  {
+    "id": 6,
+    "name": "Calcetines Star Wars",
+    "description": "Que la fuerza te acompañe con estos calcetines.",
+    "image": "star-wars.jpg",
+    "price": 11.99,
+    "category": "Cine"
+  },
+  {
+    "id": 7,
+    "name": "Calcetines Jurassic Park",
+    "description": "Diseño inspirado en el parque jurásico.",
+    "image": "jurassic-park.jpg",
+    "price": 13.49,
+    "category": "Cine"
+  },
+  {
+    "id": 8,
+    "name": "Calcetines Harry Potter",
+    "description": "Magia para tus pies, directo de Hogwarts.",
+    "image": "harry-potter.jpg",
+    "price": 12.99,
+    "category": "Cine"
+  },
+  {
+    "id": 9,
+    "name": "Calcetines El Padrino",
+    "description": "Un diseño que no podrás rechazar.",
+    "image": "el-padrino.jpg",
+    "price": 14.99,
+    "category": "Cine"
+  },
+  {
+    "id": 10,
+    "name": "Calcetines Matrix",
+    "description": "Elige la pastilla roja o azul en tus pasos.",
+    "image": "matrix.jpg",
+    "price": 13.99,
+    "category": "Cine"
+  },
+  {
+    "id": 11,
+    "name": "Calcetines Friends",
+    "description": "Los calcetines que todos tus amigos querrán tener.",
+    "image": "friends.jpg",
+    "price": 11.99,
+    "category": "Series"
+  },
+  {
+    "id": 12,
+    "name": "Calcetines Stranger Things",
+    "description": "Directo del Upside Down a tus pies.",
+    "image": "stranger-things.jpg",
+    "price": 13.99,
+    "category": "Series"
+  },
+  {
+    "id": 13,
+    "name": "Calcetines Game of Thrones",
+    "description": "Cada casa tiene su estilo, ¿cuál elegirás?",
+    "image": "game-of-thrones.jpg",
+    "price": 14.49,
+    "category": "Series"
+  },
+  {
+    "id": 14,
+    "name": "Calcetines The Office",
+    "description": "Un diseño digno de Dunder Mifflin.",
+    "image": "the-office.jpg",
+    "price": 12.49,
+    "category": "Series"
+  },
+  {
+    "id": 15,
+    "name": "Calcetines Breaking Bad",
+    "description": "Say my name... Heisenberg en tus pies.",
+    "image": "breaking-bad.jpg",
+    "price": 13.99,
+    "category": "Series"
+  },
+  {
+    "id": 16,
+    "name": "Calcetines Trollface",
+    "description": "El meme clásico que empezó todo.",
+    "image": "trollface.jpg",
+    "price": 10.99,
+    "category": "Memeverso"
+  },
+  {
+    "id": 17,
+    "name": "Calcetines Doge",
+    "description": "Wow, much comfort, so style.",
+    "image": "doge.jpg",
+    "price": 11.99,
+    "category": "Memeverso"
+  },
+  {
+    "id": 18,
+    "name": "Calcetines Distracted Boyfriend",
+    "description": "El meme viral en tus calcetines.",
+    "image": "distracted-boyfriend.jpg",
+    "price": 12.49,
+    "category": "Memeverso"
+  },
+  {
+    "id": 19,
+    "name": "Calcetines Pepe the Frog",
+    "description": "El clásico Pepe para tus pies.",
+    "image": "pepe-the-frog.jpg",
+    "price": 13.49,
+    "category": "Memeverso"
+  },
+  {
+    "id": 20,
+    "name": "Calcetines Galaxy Brain",
+    "description": "Expande tu mente con cada paso.",
+    "image": "galaxy-brain.jpg",
+    "price": 12.99,
+    "category": "Memeverso"
+  },
+  {
+    "id": 21,
+    "name": "Calcetines Circuitos",
+    "description": "Diseño con patrones electrónicos.",
+    "image": "circuitos.jpg",
+    "price": 13.49,
+    "category": "Tecnología"
+  },
+  {
+    "id": 22,
+    "name": "Calcetines Chipset",
+    "description": "Para los geeks del hardware.",
+    "image": "chipset.jpg",
+    "price": 12.99,
+    "category": "Tecnología"
+  },
+  {
+    "id": 23,
+    "name": "Calcetines Teclado",
+    "description": "Diseño inspirado en teclados mecánicos.",
+    "image": "teclado.jpg",
+    "price": 11.99,
+    "category": "Tecnología"
+  },
+  {
+    "id": 24,
+    "name": "Calcetines Código Binario",
+    "description": "01010101 en cada paso.",
+    "image": "codigo-binario.jpg",
+    "price": 13.99,
+    "category": "Tecnología"
+  },
+  {
+    "id": 25,
+    "name": "Calcetines Inteligencia Artificial",
+    "description": "El futuro está aquí, y también en tus pies.",
+    "image": "inteligencia-artificial.jpg",
+    "price": 14.49,
+    "category": "Tecnología"
+  },
+  {
+    "id": 26,
+    "name": "Calcetines 80s",
+    "description": "Colores y patrones que definen los 80s.",
+    "image": "80s.jpg",
+    "price": 11.99,
+    "category": "Retro"
+  },
+  {
+    "id": 27,
+    "name": "Calcetines 90s",
+    "description": "Un tributo a la década de los 90.",
+    "image": "90s.jpg",
+    "price": 12.49,
+    "category": "Retro"
+  },
+  {
+    "id": 28,
+    "name": "Calcetines Arcade",
+    "description": "Diseños que te transportan a las salas de arcade.",
+    "image": "arcade.jpg",
+    "price": 13.99,
+    "category": "Retro"
+  },
+  {
+    "id": 29,
+    "name": "Calcetines Cassette",
+    "description": "Recuerda los mixtapes con estos calcetines.",
+    "image": "cassette.jpg",
+    "price": 12.99,
+    "category": "Retro"
+  },
+  {
+    "id": 30,
+    "name": "Calcetines Vinyl",
+    "description": "Para los amantes del sonido analógico.",
+    "image": "vinyl.jpg",
+    "price": 13.49,
+    "category": "Retro"
+  }
+] 
